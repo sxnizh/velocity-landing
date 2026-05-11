@@ -21,7 +21,7 @@ https://sxnizh.github.io/velocity-landing/
 ## Как запустить 
 1. Клонировать репозиторий
 ```bash
-git clone [https://github.com/sxnizh/velocity-landing.git](https://github.com/sxnizh/velocity-landing.git)
+git clone https://github.com/sxnizh/velocity-landing.git
 ```
 3. Открыть папку проекта
 
